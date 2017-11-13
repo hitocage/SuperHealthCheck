@@ -1,0 +1,53 @@
+.*ScsManager - Connection closed for qam.*
+.*ScsManager - No connection could be established with qam.*
+.*csManager - Timeout waiting for channel status message for qam .*
+.*Unable to compare time with .* because get-time request took .* ms.*
+.*ScsManager - Work item expired. This happens when the queue is not processed fast enough.*
+.*CassandraCommunicationException: Exception with cassandra node .* Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..*
+.*Peal catalog: Response code 'NotFound' received. Expected response codes: OK.*
+.*PS: Response code 'NoContent' received. Expected response codes: OK.*
+.* Manager state is 'Closed'.*
+.* ThinkAnalyticsClient - ThinkAnalytics: FailOver client: none of the configured endpoints are reachable.*
+.*The connection attempt lasted for a time span of .* TCP error code 10061: No connection could be made because the target machine actively refused it .*
+.*Pool 'RTSP' not started.*
+.*No resource found of type 'product' with id.*
+.*ScsManager - .*Task = Monitor pending requests.* Connection closed for qam.*
+.*Catalog structure is not in sync with the database, the number of nodes differs between database .* and GUI .*
+.*Cannot determine remote content location for OnDemandProgram programUrl.*
+.*Generated an OnDemandProgram without programUrl.*
+.*Timeshift TV Markers invalid/rejected for schedule event .* so use fallback to configuration. Error: 'Timeshift TV marker template '' not found.'.*
+.*VideoStandard:.*0.* unknown.*
+.*AudioLanguage:.*0.* unknown.*
+.*No DRM scramble data for product.*
+.* Failed to find Nagra Aladin ScrambleData for specified CA system identifier .* using first available CA system .* instead..*
+.*The file .* was skipped, because it is is use by another process. File will be retried at next cycle..*
+.*Detected parked offering folder .* with creation date of .*
+.*Show and series have the same ID: .* series will be created/updated, show will be ignored..*
+.*Asset has failed with message 'Received unexpected reply during DeleteContent, HttpStatusCode : Forbidden'..*
+.*Communication exception occurred for asset '.*', call 'DeleteContent' returned HttpStatusCode 'Forbidden'.*
+.*Status changed to failure for asset..*
+.* Communication exception occurred for asset .* call 'DeleteContent' returned HttpStatusCode 'Forbidden'.*
+.*Propagation timeout. Action: Creating .*waiting for response.* Port: ThePlatform Polling Adapter.* Asset: .*
+.* System.IO.DirectoryNotFoundException: Could not find a part of the path.*
+.*NagraMerlin Port | Retrieving Nagra results failed. Reason.*
+.* The product time-based detection thread needs to catch-up the backlog. Processing changes up to.*
+.*The global time-based detection thread needs to catch-up the backlog. Processing changes up to .*
+.*The asset time-based detection thread needs to catch-up the backlog. Processing changes up to.*
+.*Unable to convert country code .* to a .*
+.*Workflow propagation cycle time .*s is approaching the start offset value .* s for port: 3D TSTV CBR Port.* please have a look at all the concurrency settings..*
+.* Ingest Warning Message: No service found in the TVA input was properly configured.*
+.*Parameter 'AssetAvailabilityStartDateOffsetInSeconds' not found or parameters have not been loaded.*
+.*Notification failed. Sending Notify to client .* failed. Reason: The operation has timed out.*
+.* HighResolutionDateTime .* HighResolutionDateTime not available on this platform..*
+.*Connection with Casis client has been closed. Client address .*
+.* TcpIpClient:ReceiveBase - Disconnect occured receiving data on LocalEndPoint .* from RemoteEndPoint .* A blocking operation was interrupted by a call to WSACancelBlockingCall.*SocketErrorCode=10004.*
+.*SynchronousTcpIpClient .* TcpIpClientBase:Receive - Error occured receiving data on LocalEndPoint .* from RemoteEndPoint .* An existing connection was forcibly closed by the remote host.*SocketErrorCode=10054.*
+.*The subscription possibly expired..*
+.*Notification failed. Sending Notify to client .* failed. Reason: Unable to connect to the remote server.*
+.*Connection with Casis client has been closed. Client address .*
+.*Unable to connect to .* Reason: Error connecting to server.*
+.* ResizerModule ResizerModule.ProcessTransformationRequestAsync threw an exception while resizing image: File not found.*
+.*Catalog structure is not in sync with the database, the name of the node does not match between GUI and database..*
+ .*The path variable 'FEATURETITLEVODBACKOFFICEID' in the UriTemplate must be bound to a non-empty string value.*
+ .*while execution deferred relation loader for relation='Title->Title as 'featurepreview' .*' and id=''.*
+ .*Communication error: The client's synchronization is outdated and needs to perform a full synchronization.*
